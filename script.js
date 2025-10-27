@@ -148,8 +148,8 @@ const socialIcons = document.querySelectorAll('.social i');
 
 // Add your social media URLs here
 const socialLinks = {
-  github: 'https://github.com/yourusername',
-  linkedin: 'https://linkedin.com/in/yourusername'
+  github: 'https://github.com/',
+  linkedin: 'https://www.linkedin.com/feed/'
 };
 
 socialIcons.forEach(icon => {
